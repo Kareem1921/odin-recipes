@@ -1,3 +1,3 @@
 # odin-recipes
 
-Simple recipe website programmed purely in HTML
+Simple recipe website used to practice fundamentals of HTML and CSS.

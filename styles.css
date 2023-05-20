@@ -1,0 +1,8 @@
+/*stylsheet for index.html*/
+
+/*Make all recipe images the same size*/
+
+img {
+    height: auto;
+    width: 300px;
+  }
