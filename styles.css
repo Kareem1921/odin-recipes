@@ -6,3 +6,18 @@ img {
     height: auto;
     width: 300px;
   }
+
+* {
+    font-family: "Garamond", serif;
+    background-color: blanchedalmond;
+    scrollbar-track-color: bisque;
+    scrollbar-color: #473232;
+}
+
+.dish-name{
+   background-color: beige; 
+}
+
+div{
+    background-color: rgb(71, 71, 44);
+}
