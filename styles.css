@@ -18,6 +18,27 @@ img {
    background-color: beige; 
 }
 
-div{
-    background-color: rgb(71, 71, 44);
+.tagline{
+    margin-top:-10px;
+    display:block;
 }
+
+.home-div{
+    text-align: center;
+}
+
+.home-title{
+    border: 1px #473232 dotted;
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.recipes{
+    border: 1px rgb(199, 172, 133) dotted;
+    display:table;
+    margin: 0 auto;
+}
+
+
+
